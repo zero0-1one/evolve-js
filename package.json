@@ -1,0 +1,23 @@
+{
+  "name": "winner",
+  "version": "1.0.0",
+  "description": "An evolutionary algorithm library",
+  "main": "lib/evolvement.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zero0-1one/winner.git"
+  },
+  "keywords": [
+    "winner",
+    "evolutionary",
+    "genetic",
+    "optimize",
+    "machine learning"
+  ],
+  "author": "zero0-1one",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zero0-1one/winner/issues"
+  }
+}
