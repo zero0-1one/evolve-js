@@ -1,16 +1,17 @@
 {
-  "name": "evolve-js",
+  "name": "zo-evolve",
   "version": "1.0.0",
   "description": "An evolutionary algorithm library",
   "main": "lib/evolvement.js",
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zero0-1one/evolve-js.git"
+    "url": "git+https://github.com/zero0-1one/zo-evolve.git"
   },
   "keywords": [
     "evolve",
     "evolutionary",
+    "evolvement",
     "genetic",
     "optimize",
     "machine learning"
@@ -18,6 +19,6 @@
   "author": "zero0-1one",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zero0-1one/evolve-js/issues"
+    "url": "https://github.com/zero0-1one/zo-evolve/issues"
   }
 }
