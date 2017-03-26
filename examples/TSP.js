@@ -28,8 +28,6 @@ for (let i = 0; i < N; i++) {
         cityMap[j][i] = cityMap[i][j];
     }
 }
-console.log(cityMap);
-
 
 let evolvement = new Evolvement();
 
